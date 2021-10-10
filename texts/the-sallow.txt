@@ -1,0 +1,16 @@
+the sallow moonlight,
+the frosted glaze in the fog,
+the summer, dried up
+
+
+╭──╴randomart.py╶──╮
+│.=%* *=...!*.    .│
+│ ..  .. . .  .    │
+│   . .   .  =..   │
+│    *...   !=~==. │
+│    .=  **.%%=%.  │
+│   ...*. . *= * . │
+│. .* ....  . ..  .│
+│*.*.= .* . .**  ..│
+│=*=*...*.*%.%   .*│
+╰───╴BLAKE2b/64╶───╯

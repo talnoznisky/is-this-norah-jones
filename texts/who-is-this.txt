@@ -1,0 +1,15 @@
+Who is this, I asked,
+of the cashier at Walgreens.
+Is this Norah Jones?
+
+╭──╴randomart.py╶──╮
+│. **%. . *.. **   │
+│   ... *==*==*.   │
+│*.    *.*==% *.*.*│
+│..    ..* _!=*=  .│
+│.      . %%!* * . │
+│  ..     *!!.  .  │
+│ . **.  .** *     │
+│  . ...  *.  .. . │
+│ . .*=. *   .*.. .│
+╰───╴BLAKE2b/64╶───╯

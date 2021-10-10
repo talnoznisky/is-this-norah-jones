@@ -1,0 +1,15 @@
+seagulls swarm the lot
+when the beachgoers go home
+having filled dumpsters
+
+╭──╴randomart.py╶──╮
+│.=.  * .** . ..   │
+│.. **** =*=.**    │
+│   *%==%%..*!     │
+│   *!%*..  *!*    │
+│    ==.  . .=.    │
+│    .*.   ..      │
+│   . *.*..**...   │
+│  ..==*=.*   ...  │
+│ **%==**= . ..*   │
+╰───╴BLAKE2b/64╶───╯

@@ -1,0 +1,15 @@
+the storm will be past
+when the rain stops beating on
+my air conditioner
+
+╭──╴randomart.py╶──╮
+│...**.*.*.*.    ..│
+│*% =*= =. =*=. . .│
+│*%~~~* . *.==*. .=│
+│*. ==.. =*%*.   ..│
+│.  .*.   %        │
+│   *     .*       │
+│   *!.  .=        │
+│ .*=%    ...      │
+│ ..%*=*.   .      │
+╰───╴BLAKE2b/64╶───╯
