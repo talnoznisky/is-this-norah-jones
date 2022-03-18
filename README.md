@@ -1,6 +1,6 @@
 This is the raw material of a lil zine of some haikus I wrote during late summer and early fall of 2020. They are all accompanied by computer-generated drawings. 
 
-And, in a way, these drawings are graphic representations of the haikus.
+These drawings are graphic representations of the haikus:
 
 Each haiku gets its own file and each file gets turned into a hash. The hash is a alphanumeric (plus other punctuation) sequence that describes the file's data. 
 
